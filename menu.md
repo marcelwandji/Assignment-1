@@ -6,3 +6,4 @@ Panini
  -panino vegetariano
 Primi 
  -olive ascolane
+ -arancini
